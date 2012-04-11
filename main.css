@@ -1,0 +1,22 @@
+/* Moopy's main CSS file */
+
+/* Font Imports from Google Web Fonts */
+@import url(http://fonts.googleapis.com/css?family=Averia+Sans+Libre|Gochi+Hand|Chango);
+
+#logo-text { font-family: 'Chango', cursive; font-size:72px; color:#999;}
+
+/* Fonts */
+.chango { font-family: 'Chango', cursive;}
+.gochi { font-family: 'Gochi Hand', cursive;}
+
+h1, h2, h3, h4, h5 {}
+h1 { font-size:24px; }
+h2 {}
+h3 {}
+h4 {}
+h5 {}
+h6 {}
+
+.title-holder { text-align:center; margin-top:10%;}
+
+
